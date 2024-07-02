@@ -1,6 +1,6 @@
 Hardware:
 -RAK3172 Evalution
--GateWay RAK7268v2
+-GateWay RAK7268v2Software:
 Software:
 -Chirpstack
 -Thingsboard
