@@ -1,8 +1,11 @@
-Hardware:
--RAK3172 Evalution
--GateWay RAK7268v2Software:
+Hardware: RAK3172 Evalution
+
+GateWay: RAK7268v2
+
 Software:
+
 -Chirpstack
+
 -Thingsboard
 
 First Step:
